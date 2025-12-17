@@ -63,61 +63,62 @@
   ],
 
   "posts": [
-    {
-      "id": "post_1",
-      "userId": "user_1",
-      "caption": "Atardecer mágico en la playa 🌅 No hay nada como la belleza natural para inspirar nuevas ideas.",
-      "imageUrl": "https://picsum.photos/800/800?random=101",
-      "likesCount": 234,
-      "commentsCount": 12,
-      "location": "Playa Miraflores, Lima"
-    },
-    {
-      "id": "post_2",
-      "userId": "user_2",
-      "caption": "Mi nueva receta de pasta con mariscos 🍝🦐 ¡Perfecta para una cena especial!",
-      "imageUrl": "https://picsum.photos/800/800?random=102",
-      "likesCount": 189,
-      "commentsCount": 24,
-      "location": "Mi Cocina"
-    },
-    {
-      "id": "post_3",
-      "userId": "user_3",
-      "caption": "Entrenamiento matutino terminado ✅ ¡Empezar el día con energía es la clave del éxito!",
-      "imageUrl": "https://picsum.photos/800/800?random=103",
-      "likesCount": 445,
-      "commentsCount": 31,
-      "location": "Gym PowerFit"
-    },
-    {
-      "id": "post_4",
-      "userId": "user_4",
-      "caption": "Machu Picchu al amanecer 🏔️ Una experiencia que marca la vida.",
-      "imageUrl": "https://picsum.photos/800/800?random=104",
-      "likesCount": 678,
-      "commentsCount": 45,
-      "location": "Machu Picchu, Cusco"
-    },
-    {
-      "id": "post_5",
-      "userId": "user_1",
-      "caption": "Detalles que importan ✨ La fotografía macro nos revela un mundo invisible.",
-      "imageUrl": "https://picsum.photos/800/800?random=105",
-      "likesCount": 156,
-      "commentsCount": 8,
-      "location": "Estudio Fotográfico"
-    },
-    {
-      "id": "post_6",
-      "userId": "user_2",
-      "caption": "Brunch dominical 🥞🥓 Nada mejor que empezar el fin de semana con buena comida.",
-      "imageUrl": "https://picsum.photos/800/800?random=106",
-      "likesCount": 267,
-      "commentsCount": 19,
-      "location": "Café Central"
-    }
-  ],
+  {
+    "id": "post_1",
+    "userId": "user_1",
+    "caption": "🌐 [JSON] Atardecer en Miraflores 🌅 Foto cargada desde servidor remoto. Probando consumo de datos online.",
+    "imageUrl": "https://picsum.photos/seed/json_post_1/800/800",
+    "likesCount": 999,
+    "commentsCount": 88,
+    "location": "Miraflores, Lima (JSON)"
+  },
+  {
+    "id": "post_2",
+    "userId": "user_2",
+    "caption": "🌐 [JSON] Pasta artesanal 🍝🦐 Imagen obtenida desde JSON Server para pruebas de API REST.",
+    "imageUrl": "https://picsum.photos/seed/json_post_2/800/800",
+    "likesCount": 850,
+    "commentsCount": 64,
+    "location": "Cocina Italiana (JSON)"
+  },
+  {
+    "id": "post_3",
+    "userId": "user_3",
+    "caption": "🌐 [JSON] Rutina fitness 💪 Datos consumidos desde backend simulado en GitHub.",
+    "imageUrl": "https://picsum.photos/seed/json_post_3/800/800",
+    "likesCount": 1200,
+    "commentsCount": 101,
+    "location": "PowerFit Gym (JSON)"
+  },
+  {
+    "id": "post_4",
+    "userId": "user_4",
+    "caption": "🌐 [JSON] Machu Picchu 🏔️ Publicación cargada desde API remota (JSON Server).",
+    "imageUrl": "https://picsum.photos/seed/json_post_4/800/800",
+    "likesCount": 1500,
+    "commentsCount": 230,
+    "location": "Cusco, Perú (JSON)"
+  },
+  {
+    "id": "post_5",
+    "userId": "user_1",
+    "caption": "🌐 [JSON] Fotografía macro ✨ Datos online para validar consumo remoto en Android.",
+    "imageUrl": "https://picsum.photos/seed/json_post_5/800/800",
+    "likesCount": 640,
+    "commentsCount": 41,
+    "location": "Estudio Creativo (JSON)"
+  },
+  {
+    "id": "post_6",
+    "userId": "user_2",
+    "caption": "🌐 [JSON] Brunch dominical 🥞🥓 Post obtenido desde servidor remoto para pruebas.",
+    "imageUrl": "https://picsum.photos/seed/json_post_6/800/800",
+    "likesCount": 720,
+    "commentsCount": 55,
+    "location": "Café Central (JSON)"
+  }
+],
+
 
   "comments": [
     {
