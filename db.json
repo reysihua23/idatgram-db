@@ -59,6 +59,18 @@
       "followingCount": 234,
       "postsCount": 89,
       "isVerified": false
+    },
+    {
+      "id": "user_5",
+      "username": "hector_gomez",
+      "email": "hector@example.com",
+      "displayName": "Hector Gomez",
+      "bio": "Viajero & aventurero 🌍⛰️",
+      "profileImageUrl": "https://picsum.photos/200/200?random=5",
+      "followersCount": 567,
+      "followingCount": 234,
+      "postsCount": 89,
+      "isVerified": true
     }
   ],
 
@@ -113,6 +125,15 @@
     "userId": "user_2",
     "caption": "🌐 [JSON] Brunch dominical 🥞🥓 Post obtenido desde servidor remoto para pruebas.",
     "imageUrl": "https://picsum.photos/seed/json_post_6/800/800",
+    "likesCount": 720,
+    "commentsCount": 55,
+    "location": "Café Central (JSON)"
+  },
+    {
+    "id": "post_7",
+    "userId": "user_3",
+    "caption": "🌐 [JSON] Brunch dominical 🥞🥓 Post obtenido desde servidor remoto para pruebas.",
+    "imageUrl": "https://picsum.photos/seed/json_post_7/800/800",
     "likesCount": 720,
     "commentsCount": 55,
     "location": "Café Central (JSON)"
