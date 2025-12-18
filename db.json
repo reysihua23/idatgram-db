@@ -13,10 +13,10 @@
       "isVerified": false
     },
     {
-      "id": "user_1",
-      "username": "ana_garcia",
-      "email": "ana@example.com",
-      "displayName": "Ana García",
+      "id": "juan_garcia",
+      "username": "juan_garcia",
+      "email": "juan@example.com",
+      "displayName": "Juan García",
       "bio": "Fotógrafa profesional 📸✨",
       "profileImageUrl": "https://picsum.photos/200/200?random=1",
       "followersCount": 1250,
@@ -25,7 +25,7 @@
       "isVerified": true
     },
     {
-      "id": "user_2",
+      "id": "carlos_mendez",
       "username": "carlos_mendez",
       "email": "carlos@example.com",
       "displayName": "Carlos Méndez",
@@ -37,10 +37,10 @@
       "isVerified": false
     },
     {
-      "id": "user_3",
-      "username": "sofia_lopez",
-      "email": "sofia@example.com",
-      "displayName": "Sofía López",
+      "id": "javier_lopez",
+      "username": "javier_lopez",
+      "email": "javier@example.com",
+      "displayName": "Javier López",
       "bio": "Fitness trainer & wellness coach 💪✨",
       "profileImageUrl": "https://picsum.photos/200/200?random=3",
       "followersCount": 2100,
@@ -74,7 +74,7 @@
   },
   {
     "id": "post_2",
-    "userId": "user_2",
+    "userId": "juan_garcia",
     "caption": "🌐 [JSON] Pasta artesanal 🍝🦐 Imagen obtenida desde JSON Server para pruebas de API REST.",
     "imageUrl": "https://picsum.photos/seed/json_post_2/800/800",
     "likesCount": 850,
@@ -83,7 +83,7 @@
   },
   {
     "id": "post_3",
-    "userId": "user_3",
+    "userId": "carlos_mendez",
     "caption": "🌐 [JSON] Rutina fitness 💪 Datos consumidos desde backend simulado en GitHub.",
     "imageUrl": "https://picsum.photos/seed/json_post_3/800/800",
     "likesCount": 1200,
@@ -92,7 +92,7 @@
   },
   {
     "id": "post_4",
-    "userId": "user_4",
+    "userId": "javier_lopez",
     "caption": "🌐 [JSON] Machu Picchu 🏔️ Publicación cargada desde API remota (JSON Server).",
     "imageUrl": "https://picsum.photos/seed/json_post_4/800/800",
     "likesCount": 1500,
